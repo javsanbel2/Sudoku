@@ -1,0 +1,3 @@
+#!/bin/bash
+
+java -cp target/SudokuApp.jar com.javier.sudoku.Sudoku $1
